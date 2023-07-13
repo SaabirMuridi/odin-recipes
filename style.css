@@ -1,0 +1,23 @@
+h1{
+    font-size: 60px;
+}
+
+body{
+    background-color: beige;
+    
+}
+
+body ul{
+    border: 2px solid black;
+    font-size: 25px;
+    line-height: 35px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
